@@ -6,7 +6,7 @@ Date: 2016-03-09
 
 Authors: Claudia Grellmann, Jane Neumann, Sebastian Bitzer, Peter Kovacs, Anke Tönjes, Lars T. Westlye, Ole A. Andreassen, Michael Stumvoll, Arno Villringer & Annette Horstmann
 
-Implemented by: Claudia Grellmann <grellmann@cbs.mpg.de>
+Implemented by: Claudia Grellmann
 
 Requires: far, proxy
 
