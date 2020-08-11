@@ -1,6 +1,6 @@
 # PlscRP
 
-R Code for data analysis as described in the manuscript 'Random Projection for fast and efficient multivariate correlation analysis of high-dimensional data: A new approach'
+R code for data analysis as described in the manuscript 'Random Projection for fast and efficient multivariate correlation analysis of high-dimensional data: A new approach'
 
 Date: 2016-03-09
 
