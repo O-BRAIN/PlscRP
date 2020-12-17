@@ -1,4 +1,4 @@
-﻿# PlscRP
+# PlscRP
 
 Plsc-RP: Partial Least Squares Correlation - Random Projection: a method to efficiently solve high-dimensional multimodal problems 
 Copyright (C) 2016. Claudia Grellmann & The O'BRAIN Lab
@@ -17,6 +17,7 @@ Copyright (C) 2016. Claudia Grellmann & The O'BRAIN Lab
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 The code was written by Claudia Grellmann. If you have questions on the method and/ or data, please get in touch with The O'BRAIN Lab via its website: https://obrainlab.com/
+
 --------------------------------------------------------------------
 
 R code for data analysis as described in the manuscript 'Random Projection for fast and efficient multivariate correlation analysis of high-dimensional data: A new approach'
